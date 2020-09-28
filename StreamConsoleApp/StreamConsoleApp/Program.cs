@@ -10,7 +10,8 @@ namespace StreamConsoleApp
     {
         static void Main(string[] args)
         {
-            // написал другой разработчик
+            // написал разработчик
+            Console.WriteLine(5);
         }
     }
 }
