@@ -10,6 +10,7 @@ namespace StreamConsoleApp
     {
         static void Main(string[] args)
         {
+            // написал другой разработчик
         }
     }
 }
